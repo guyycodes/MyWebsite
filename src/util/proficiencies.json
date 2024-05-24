@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-babd4911625f40cb944b3891c9f8953c.jpg",
+        "title": "Web Development",
+        "price": "$40/hour",
+        "date": "",
+        "description": "Leverage cutting-edge frameworks and responsive design techniques to create dynamic, user-centric websites. My web development services ensure your online presence is powerful, scalable, and conversion-oriented."
+    },
+    {
+        "id": 2,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-29847a428d5140d2adb720e4c89133ae.jpg",
+        "title": "Full-Stack Engineering",
+        "price": "$55/hour",
+        "date": "",
+        "description": "Experience comprehensive development solutions with my Full-Stack Engineering services. From front-end aesthetics to back-end functionality, I've architected dozens seamless experiences across all layers of diverse technology stacks."
+    },
+    {
+        "id": 3,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-e09b451b52e240eea6a4202609e35d70.jpg",
+        "title": "E-Commerce",
+        "price": "$55/hour",
+        "date": "",
+        "description": "Maximize online sales with an E-Commerce platforms, tailored to your unique business needs. Im able to integrate advanced shopping cart solutions, payment gateways, and product management systems to drive digital retail innovation."
+    },
+    {
+        "id": 4,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-e99748884be945a08f7b369e9fa855dc.jpg",
+        "title": "Database Services",
+        "price": "$60/hour",
+        "date": "",
+        "description": "My database services provide robust, secure, and scalable database architectures. Employing best practices in replication and in data modeling and storage optimization, I ensure your data solutions are efficient and reliable."
+    },
+    {
+        "id": 5,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-1730a9f9803d42be8b3f40f8db02c531.jpg",
+        "title": "AI & Machine Learning",
+        "price": "$60/hour",
+        "date": "",
+        "description": "Harness the power of AI & Machine Learning to unlock transformative business insights. Leveraging my skills in algorithm design and analysis I can help you developed intelligent systems that improve over time, automate tasks, predict outcomes, and personalize user experiences."
+    },
+    {
+        "id": 6,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-6b27f53b38924c4d9f42419c3f492696.jpg",
+        "title": "Prompt Engineering",
+        "price": "$50/hour",
+        "date": "",
+        "description": "Elevate your AI's performance with my years of Prompt Engineering expertise. I craft precise prompts to effectively communicate with AI models, optimizing for accuracy and relevancy in outputs, from content generation to complex problem-solving and advanced algorithm develpment."
+    },
+    {
+        "id": 7,
+        "image": "https://images.unsplash.com/photo-1520338258525-606b90f95b04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRhcmslMjBibHVlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=70",
+        "title": "Data-Driven BI",
+        "price": "$60/hour",
+        "date": "",
+        "description": "Data-Driven Business Intelligence (BI) solutions can turn your data into actionable insights. Implementing advanced analytics and visualization tools, can empower decision-makers to navigate market trends and drive business strategy."
+    },
+    {
+        "id": 8,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-364ad16bef4d41a2bbe131b278a4fcd6.jpg",
+        "title": "SaaS Development",
+        "price": "$45/hour",
+        "date": "",
+        "description": "Develop scalable, cloud-native Software as a Service (SaaS) applications. Ive personally SaaS services focus with a focun on multi-tenancy, configurability, and user experience, delivering software that grows with your customer base."
+    },
+    {
+        "id": 10,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-02b04865cdc7421aaae6ef68f8fc2299.jpg",
+        "title": "Mobile App Development",
+        "price": "$45/hour",
+        "date": "",
+        "description": "Having experience in cross platform development, I create compelling mobile experiences focusing on intuitive design and cross-platform compatibility. I can bring your mobile app vision to life, engaging users on any device."
+    },
+    {
+        "id": 11,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-1aceabe2d5224cacab517ea96f65617f.jpg",
+        "title": "AWS Cloud",
+        "price": "$60/hour",
+        "date": "",
+        "description": "Accelerate your cloud journey with Amazon Web Services (AWS). My AWS Cloud skills span cloud migration, management, and optimization, leveraging AWS's breadth and depth to power your infrastructure cost-effectively."
+    },
+    {
+        "id": 12,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-0fdb40c990d449faa267490d813f444a.jpg",
+        "title": "Large Language Model Deployment",
+        "price": "$75/hour",
+        "date": "",
+        "description": "Implement your own state-of-the-art Large Language Model (LLMs) in your applications. From natural language processing to generative AI, I provide end-to-end LLM Deployment services to revolutionize how you interact with data and customers."
+    },
+    {
+        "id": 13,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-989cfd6cbde84e648459b616a3905e72.jpg",
+        "title": "High Availability Systems",
+        "price": "$80/hour",
+        "date": "",
+        "description": "Ensure maximum uptime and reliability by giving your system High Availability. Desiged around best practices for redundancy and failover, Im able to architect and implment an efficent version of your new or existing system to minimize downtime, and maintaining business continuity under any circumstances."
+    },
+    {
+        "id": 14,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-fe2e27864e374f42b573b62dc08f44fc.jpg",
+        "title": "Content Management System",
+        "price": "$60/hour",
+        "date": "",
+        "description": "Empower your content strategy with flexible Content Management Systems (CMS). I can customize and deploy a CMS platform for you, enabling you to create, manage, and optimize your digital content with ease and efficiency."
+    },
+    {
+        "id": 15,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-c76c536b5c3f4b6bbf5aea11976fe51b.jpg",
+        "title": "Cybersecurity",
+        "price": "$50/hour",
+        "date": "",
+        "description": "Guard your digital assets by deploying advanced cybersecurity solutions. From vulnerability assessments to incident response, I can thoroughly provide comprehensive protection against evolving cyber threats, thereby preserving the integrity of your business."
+        },
+        {
+        "id": 16,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-0bc88eda2dc74dd0a9fc87df82df312c.jpg",
+        "title": "Service Level Agreements",
+        "price": "$20-75/hour",
+        "description": "Our Service Level Agreements (SLAs) guarantee superior service quality and reliability. Tailored to meet your specific needs, our SLAs ensure performance metrics, availability, and support commitments are clearly defined and adhered to."
+        },
+        {
+        "id": 17,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-fe2b1dca5b28463ea6126ebc9778d746.jpg",
+        "title": "ERP",
+        "price": "$60/hour",
+        "date": "",
+        "description": "Need to Streamline your business processes with our Enterprise Resource Planning (ERP)?. I can assist with Integrating financials, supply chain, operations, and HR functions, our ERP services enhance efficiency and inform strategic decision-making."
+        },
+        {
+        "id": 18,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-5d3da55493114c77a143e9919bd6b854.jpg",
+        "title": "Kubernetes",
+        "price": "$55/hour",
+        "date": "",
+        "description": "Embrace container orchestration with Kubernetes. Im able to provide Kubernetes solutions to automate deployments from scratch, or using pre-configured tool your choice. Scaling, and operations of application containers has never been better, enabling faster software delivery and operational resiliency."
+        },
+        {
+        "id": 19,
+        "image": "https://u-static.fotor.com/images/text-to-image/result/PRO-cd1e1313d2714fb68ff8735de8234595.jpg",
+        "title": "UI/UX Design",
+        "price": "$100/hour",
+        "date": "",
+        "description": "Need to craft an unforgettable user experience? Let me handle you UI/UX Design services. Merging aesthetics with usability, my designs are intuitive, accessible, and engaging, ensuring users have seamless interactions with your digital products."
+        }
+        
+]
