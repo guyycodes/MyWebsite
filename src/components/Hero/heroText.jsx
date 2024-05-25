@@ -41,7 +41,7 @@ export const HeroText = () => {
           p={1}
           >
           “ I am a freelance web developer and AWS certified cloud practitioner with over seven years of experience in service management.  
-          I specialize in building user-friendly and scalable web applications using a variety of tech stacks. I also have extensive knowledge and skills in cloud computing. “
+          I specialize in building user-friendly and scalable web, mobile and software applications using a variety of tech stacks. I also have knowledge and skills in cloud computing and infastructure. “
         </Text>
       </Box>
 
