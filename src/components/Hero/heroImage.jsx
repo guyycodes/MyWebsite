@@ -26,8 +26,9 @@ export const HeroImage = () => {
           alt='Picture of me'
           boxSize={{ base: '100%', md: '70%'}}
           h="130%"
+          borderRadius={'30px'}
           objectFit="cover"
-          
+          transform={{base:'translateY(3rem) translateX(2.75rem)', sm: 'translateY(4rem) translateX(2.5rem)', md: 'translateY(6rem) translateX(1rem)'}}
       />
     <>
       <Box

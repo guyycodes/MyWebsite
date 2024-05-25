@@ -41,7 +41,7 @@ export const Morph = ({ isChecked }) => {
     
     // applies the blur filter to the text.
     const setMorph = (fraction) => {
-        // fraction = Math.cos(fraction * Math.PI) / -2 + .5;
+        fraction = Math.cos(fraction * Math.PI) / -2 + .5;
         
         elts.text2.style.filter = `blur(${Math.min(8 / fraction - 8, 100)}px)`;
         elts.text2.style.opacity = `${Math.pow(fraction, 0.4) * 100}%`;
@@ -127,7 +127,7 @@ export const Morph = ({ isChecked }) => {
             display="inline-block"
             width="100%"
             fontFamily="'Noto Sans', sans-serif"
-            fontSize="50pt"
+            fontSize={{base:"30pt", sm:"50pt"}}
             textAlign="center"
             userSelect="none"       
         />
@@ -137,7 +137,7 @@ export const Morph = ({ isChecked }) => {
             display="inline-block"
             width="100%"
             fontFamily="'Noto Sans', sans-serif"
-            fontSize="50pt"
+            fontSize={{base:"30pt", sm:"50pt"}}
             textAlign="center"
             userSelect="none"
         />

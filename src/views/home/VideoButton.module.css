@@ -94,7 +94,7 @@ body {
 /*************** Managment of the checkbox ****************/
 /* manages the visibility of the checkbox */
 .wrapper input {
-  width: 200px;
+  width: 170px;
   height: 40px;
   margin: auto;
   position: absolute;

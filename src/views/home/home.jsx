@@ -78,7 +78,7 @@ export const VideoButton = () => {
               <Box
                 as="span"
                 className="videoText"
-                data-text={isChecked ? "⏪ Click to return" : "🎯 Click to enter"}
+                data-text={isChecked ? "⏪ return" : "🎯 Click here"}
               />
               </Box>
               <Box className={styles.underlay}> 
