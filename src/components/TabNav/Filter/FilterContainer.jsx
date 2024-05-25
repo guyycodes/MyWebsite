@@ -26,7 +26,7 @@ export const PropogateTemplates = ({ secondaryNavSelection }) => {
             case 'MobileApps':
                 setCardDataObject(mobileAppsData);
                 break;
-            case 'Components': // change to Proficiencies
+            case 'Services': // change to Proficiencies
                 setCardDataObject(proficiencies);
                 break;
             case 'Cloud':
@@ -49,7 +49,7 @@ export const PropogateTemplates = ({ secondaryNavSelection }) => {
         case 'MobileApps':
             CardContainerComponent = DynamicCardContainer;
             break;
-        case 'Components':
+        case 'Services':
             CardContainerComponent = GalleryContainer;
             break;
         case 'Cloud':

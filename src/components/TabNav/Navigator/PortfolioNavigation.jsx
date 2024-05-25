@@ -16,19 +16,19 @@ const pointerTransform = {large:'20px', small: '20px'}
 const pointerTopPosition = screenSize > 626 ? pointerTransform.large : pointerTransform.small;
 
 // Navigation items
-const navItems = [
+const navItems = [  // if you change these be sure to change the switch statement inside FilterContainer.jsx to match
   { label: 'WebApps', id: 'WebApps' },
   { label: 'MobileApps', id: 'MobileApps' },
-  { label: 'Components', id: 'Components' },
+  { label: 'Services', id: 'Services' },
   { label: 'Cloud', id: 'Cloud'},
   
 ];
 
 // dynamic values based on the screen width to adjust features
 const imgTransform = {
-  large: { WebApps: '3px', MobileApps: '110px', Components: '225px', Cloud:'325px'},
-  medium: { WebApps: '0px', MobileApps: '70px', Components: '145px', Cloud:'217px' },
-  custom: { WebApps: '-3px', MobileApps: '73px', Components: '145px', Cloud:'218px' },   
+  large: { WebApps: '3px', MobileApps: '110px', Services: '210px', Cloud:'295px'},
+  medium: { WebApps: '0px', MobileApps: '70px', Services: '130px', Cloud:'198px' },
+  custom: { WebApps: '-3px', MobileApps: '73px', Services: '130px', Cloud:'198px' },   
 };
 
 // Responsive styles for Links and Separators
