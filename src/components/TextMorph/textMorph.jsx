@@ -10,7 +10,7 @@ export const Morph = ({ isChecked }) => {
   
     // The strings to morph between.
     const texts = ["Welcome ✨", "Im a full-stack developer 💼", "Driven by growth 🌱", 
-    "& Continuous learning ∫∫", "If it has code, I have a solution 🔍.", "from E-commerce to A.i, your covered✨", 
+    "& Continuous learning ∫∫", "If it has code, I have a solution 🔍.", "from E-commerce to A.i ✨", 
     "JavaScript 📌", "React 📌", "Java 📌", "Kubernetes 📌", "Databases 📌", "AWS-Cloud ☁️ 📌", "TypeScript 📌", "React-Native 📌", "Shopify 📌"]
     
     // Controls the speed of morphing.
