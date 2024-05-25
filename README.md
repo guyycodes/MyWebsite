@@ -31,8 +31,8 @@ To run this portfolio website locally, follow these steps:
 I'm always excited to connect with fellow developers, collaborate on interesting projects, or discuss potential opportunities. Feel free to reach out to me through any of the following channels:
 
 - Email: guymoganb@gmail.com
-- LinkedIn: [[link to your LinkedIn profile](https://www.linkedin.com/in/guymorganb/)]
-- GitHub: [[link to your GitHub profile](https://github.com/guyycodes)]
+- LinkedIn: (https://www.linkedin.com/in/guymorganb/)
+- GitHub: (https://github.com/guyycodes)
 
 ## Acknowledgements
 
