@@ -107,13 +107,17 @@ export const AnimationGrid = ( { data } ) => {
     }
     // Render the Box container
   return (
-    <Box id="work" pb={{base:28,md:44}} px={4} mb={4}>
+    <Box id="work" pb={{base:28,md:44}} px={1} mb={4}>
       <Heading as="h3" textAlign="center" mb={0} color={'black'}>
-        My Components
+       Portfolio
       </Heading>
       <Text fontSize="md" textAlign="center" mb={4} color={'black'}>
-      Welcome to a handpicked collection of my custom components. Each one is fully operational, ready for you to use and explore, they rotate randomly.<br /><br />
-      
+        Welcome to a handpicked collection of my work. My work includes Full Stack Applications for businesses, 
+        Cross Platform Mobile Applications, Progessive Web Apps, API's, Microservices, Database Replication, 
+        Custom Algorithms, Kubernetes, Machine Learning, Cybersecurity, 
+        Networking Systems level programming and a variety of tech stacks and frameworks. 
+        You can navigate with the tab above, and even search with autocomplete through my work. 
+      <br /><br />(Hover for a larger view)
       </Text>
       <Grid transform="scale(1.5)" templateColumns="repeat(3, 1fr)" gap={4} pt={28}>
       {currentSet.map(({ path, key, link }, index) => (

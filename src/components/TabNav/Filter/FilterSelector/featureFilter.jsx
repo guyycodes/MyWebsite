@@ -110,14 +110,15 @@ export const FeatureFilter = ({ cardData, secondaryNavSelection, CardContainerCo
     };
 
     return (
-        <Box width={["90%", "80%", "75%"]} mx="auto" mt={6}>
+        <Box width={["90%", "80%", "75%"]} mx="auto" mt={2}>
                 {/* Outer Flex container keeps search bar in place upon search*/}
             <Flex justifyContent="space-between" mb={16} flexDirection="column-reverse" >
                 {/* Middle section: Search bar */}
                 <Box width={"100%"} mx="auto" textColor={'black'}>
                 {(CardContainerComponent === WideCardsContainer || CardContainerComponent  === DynamicCardContainer || CardContainerComponent === GalleryContainer) && (
-                        <InputGroup size="md" m={1}>
+                        <InputGroup size="lg" m={1}>
                             <Input 
+                            
                             placeholder={ "Search..."}
                             value={searchQuery}
                             onChange={(e)=>handleInputChange(e)}
@@ -132,6 +133,7 @@ export const FeatureFilter = ({ cardData, secondaryNavSelection, CardContainerCo
                             </Input>
                             <InputRightElement width="4.5rem" children={isLoading ? <Spinner size="md" /> : null}>
                             <Button 
+                                w={'5rem'}
                                 h="1.75rem" 
                                 size="sm" 
                                 onClick={handleSearch} 

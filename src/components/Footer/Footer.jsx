@@ -57,16 +57,16 @@ export const Footer = () => {
           </Heading>
             <Text>
               <Link
-                href="https://www.google.com/maps/@39.8317804,-105.004315,18.15z?entry=ttu"
+                href="https://www.google.com/maps/@26.3809736,-98.901535,15.03z?entry=ttu"
                 target="_blank"
                 isExternal
               >
-                1411 W 33rd Ave
+                ...A long ways from home
               </Link>
             </Text>
             <Box display="flex" justifyContent="center">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6132.330914483945!2d-105.01660822361546!3d39.78084209409564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c7866bb40149b%3A0x433eb9a0251eb7e4!2s4630%20Wyandot%20St%2C%20Denver%2C%20CO%2080211!5e0!3m2!1sen!2sus!4v1714408285448!5m2!1sen!2sus"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14032.512391272201!2d-98.90153501560928!3d26.380973626184748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8664691141dffcbb%3A0xdc3ab749ccda03ab!2s203%20Comanche%20Ln%2C%20Rio%20Grande%20City%2C%20TX%2078582!5e0!3m2!1sen!2sus!4v1716602517213!5m2!1sen!2sus"
                 width="200"
                 height="150"
                 style={{ border: 0 }}
